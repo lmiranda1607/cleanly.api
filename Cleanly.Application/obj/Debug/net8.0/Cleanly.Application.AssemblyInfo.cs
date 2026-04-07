@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cleanly.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db2abed34b19b9aadbb11ce86943d381de0314a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8abf6879cfd794fc380db2912e037e5778d7187")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cleanly.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cleanly.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
