@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Cleanly.Api.Controllers.HealthController",
+    "Method": "Public",
+    "RelativePath": "api/Health/public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cleanly.Api.Controllers.HealthController",
+    "Method": "Secure",
+    "RelativePath": "api/Health/secure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,16 @@
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly.Application.csproj.AssemblyReference.cache
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly.Application.AssemblyInfoInputs.cache
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly.Application.AssemblyInfo.cs
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly.Application.csproj.CoreCompileInputs.cache
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly.Application.sourcelink.json
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\bin\Debug\net8.0\Cleanly.Application.deps.json
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\bin\Debug\net8.0\Cleanly.Application.dll
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\bin\Debug\net8.0\Cleanly.Application.pdb
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\bin\Debug\net8.0\Cleanly.Domain.dll
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\bin\Debug\net8.0\Cleanly.Domain.pdb
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly..05E6C0AE.Up2Date
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly.Application.dll
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\refint\Cleanly.Application.dll
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\Cleanly.Application.pdb
+C:\Users\luizm\Source\Repos\cleanly.api\Cleanly.Application\obj\Debug\net8.0\ref\Cleanly.Application.dll
