@@ -65,6 +65,7 @@ builder.Services
     });
 
 builder.Services.AddAuthorization();
+builder.Services.AddScoped<Cleanly.Api.Services.JwtTokenService>();
 
 var app = builder.Build();
 
