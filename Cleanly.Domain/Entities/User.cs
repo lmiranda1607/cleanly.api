@@ -10,12 +10,13 @@ public class User
     {
     }
 
-    public User(string fullName, string email, string phone, UserRole role)
+    public User(string fullName, string email, string phone, UserRole role, string passwordHash)
     {
         FullName = fullName;
         Email = email;
         Phone = phone;
         Role = role;
+        PasswordHash = passwordHash;
         ReputationScore = 5.0m;
         CreatedAt = DateTimeOffset.UtcNow;
         UpdatedAt = DateTimeOffset.UtcNow;
@@ -26,6 +27,7 @@ public class User
     public string Email { get; private set; } = string.Empty;
     public string Phone { get; private set; } = string.Empty;
     public UserRole Role { get; private set; }
+    public string PasswordHash { get; private set; } = string.Empty;
     public decimal ReputationScore { get; private set; }
     public DateTimeOffset CreatedAt { get; private set; }
     public DateTimeOffset UpdatedAt { get; private set; }
@@ -38,6 +40,12 @@ public class User
     {
         FullName = fullName;
         Phone = phone;
+        UpdatedAt = DateTimeOffset.UtcNow;
+    }
+
+    public void SetPasswordHash(string passwordHash)
+    {
+        PasswordHash = passwordHash;
         UpdatedAt = DateTimeOffset.UtcNow;
     }
 
