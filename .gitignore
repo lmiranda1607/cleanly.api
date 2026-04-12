@@ -1,0 +1,18 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Cleanly/CopilotIndices/0.2.1653.9816/CodeChunks.db-shm
+/.vs/Cleanly/CopilotIndices/0.2.1653.9816/CodeChunks.db
+/.vs/Cleanly/CopilotIndices/0.2.1653.9816/CodeChunks.db-wal
+/.vs/Cleanly/CopilotIndices/0.2.1653.9816/SemanticSymbols.db-shm
+/.vs/Cleanly/CopilotIndices/0.2.1653.9816/SemanticSymbols.db-wal
+/.vs/Cleanly/FileContentIndex/f5878b83-0814-487a-a483-f1eecd0c0814.vsidx
+/.vs/cleanly.api/v17/.wsuo
+/Cleanly.Api/obj/Debug/net8.0/Cleanly.Api.AssemblyInfoInputs.cache
+/Cleanly.Api/obj/Debug/net8.0/Cleanly.Api.csproj.AssemblyReference.cache
+/Cleanly.Application/obj/Debug/net8.0/Cleanly.Application.AssemblyInfoInputs.cache
+/Cleanly.Application/obj/Debug/net8.0/Cleanly.Application.csproj.AssemblyReference.cache
+/Cleanly.Domain/obj/Debug/net8.0/Cleanly.Domain.AssemblyInfoInputs.cache
+/Cleanly.Infrastructure/obj/Debug/net8.0/Cleanly.Infrastructure.AssemblyInfoInputs.cache
+/Cleanly.Infrastructure/obj/Debug/net8.0/Cleanly.Infrastructure.csproj.AssemblyReference.cache
